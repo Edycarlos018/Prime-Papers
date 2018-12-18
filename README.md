@@ -4,4 +4,4 @@ This particular demo app is based on a project by Gary Shew, one of our former s
 
 You can see the demo we'll be building, which is Gary's finished Fromage Cheese shop here:
 
-https://duder63.github.io/store_app/
+https://duder63.github.io/store_app/"# Primepaper-store-front" 
